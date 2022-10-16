@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Estou em busca da minha primeira experiência como Front-End! Estou à disposição para conversármos!
  
 <div> 
    <a href="https://instagram.com/gabriieljoao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
